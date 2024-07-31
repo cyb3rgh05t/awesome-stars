@@ -72,6 +72,7 @@
 
 ## others 
 
+- [cyb3rgh05t/theme.park](https://github.com/cyb3rgh05t/theme.park) - A collection of themes/skins for your favorite apps.
 - [nwithan8/tauticord](https://github.com/nwithan8/tauticord) - A Discord bot that displays live data from Tautulli
 - [packruler/traefik-themepark](https://github.com/packruler/traefik-themepark) - Easily add theme-park.dev themes to supported applications
 - [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts - Automation scripts to make life easier!
@@ -87,7 +88,6 @@
 - [Ombrelin/plex-rich-presence](https://github.com/Ombrelin/plex-rich-presence) - A desktop app to enable discord rich presence for your Plex Media Server Activity
 - [nwithan8/PlexDiscordManager](https://github.com/nwithan8/PlexDiscordManager) - A Discord bot to manage your Plex users
 - [faizyy01/Invitarr](https://github.com/faizyy01/Invitarr) - Plex Discord Bot to invite a user to a plex server
-- [cyb3rgh05t/theme.park](https://github.com/cyb3rgh05t/theme.park) - A collection of themes/skins for your favorite apps.
 - [HawksRepos/PTS-Team](https://github.com/HawksRepos/PTS-Team) - 
 - [PGBlitz/BlitzUI](https://github.com/PGBlitz/BlitzUI) - Visit the PG Repos @ https://github.com/PGBlitz - UI (User Interface)
 - [hashworks/Jackett](https://github.com/hashworks/Jackett) - API Support for your favorite torrent trackers.
