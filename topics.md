@@ -6,7 +6,6 @@
 ## Contents
 
 - [analytics](#analytics)
-- [ansible](#ansible)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [cli](#cli)
@@ -26,10 +25,6 @@
 ## analytics 
 
 - [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
-
-## ansible 
-
-- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Welcome to PlexGuide ~ Deploy Multiple Docker Containers in a Hasty Manner
 
 ## awesome 
 
