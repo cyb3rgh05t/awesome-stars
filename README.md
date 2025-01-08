@@ -57,6 +57,7 @@
 
 ## JavaScript 
 
+- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [iam4x/pokemongo-webspoof](https://github.com/iam4x/pokemongo-webspoof) - 👾 Play Pokémon Go from your Mac
 - [OstlerDev/PopcornTV](https://github.com/OstlerDev/PopcornTV) - Project Discontinued.
 
