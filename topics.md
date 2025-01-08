@@ -12,6 +12,7 @@
 - [css](#css)
 - [discord](#discord)
 - [docker](#docker)
+- [github](#github)
 - [google](#google)
 - [hacktoberfest](#hacktoberfest)
 - [monitoring](#monitoring)
@@ -53,12 +54,17 @@
 - [dockserver/dockserver](https://github.com/dockserver/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
 - [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Trae
 
+## github 
+
+- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+
 ## google 
 
 - [dockserver/dockserver](https://github.com/dockserver/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
 
 ## hacktoberfest 
 
+- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 
 ## monitoring 
