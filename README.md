@@ -83,6 +83,7 @@
 
 ## Python 
 
+- [purplescorpion1/youtube-to-m3u](https://github.com/purplescorpion1/youtube-to-m3u) - Export YouTube Live streams to m3u to stream in any player
 - [xoceunder/Xtream-UI](https://github.com/xoceunder/Xtream-UI) - 
 - [nwithan8/tauticord](https://github.com/nwithan8/tauticord) - A Discord bot that displays live data from Tautulli
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
