@@ -10,6 +10,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [Dockerfile](#dockerfile)
 - [Go](#go)
 - [HTML](#html)
 - [JavaScript](#javascript)
@@ -47,8 +48,13 @@
 - [cyb3rgh05t/theme.park](https://github.com/cyb3rgh05t/theme.park) - A collection of themes/skins for your favorite apps.
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 
+## Dockerfile 
+
+- [cyb3rgh05t/docker-mod-storagecheck](https://github.com/cyb3rgh05t/docker-mod-storagecheck) - 
+
 ## Go 
 
+- [cyb3rgh05t/autoscan](https://github.com/cyb3rgh05t/autoscan) - Autoscan replaces the default Plex and Emby behaviour for picking up changes on the file system.
 - [packruler/traefik-themepark](https://github.com/packruler/traefik-themepark) - Easily add theme-park.dev themes to supported applications
 
 ## HTML 
@@ -68,6 +74,9 @@
 
 ## Others 
 
+- [cyb3rgh05t/assets](https://github.com/cyb3rgh05t/assets) - 
+- [cyb3rgh05t/cyb3rgh05t](https://github.com/cyb3rgh05t/cyb3rgh05t) - 
+- [cyb3rgh05t/awesome-stars](https://github.com/cyb3rgh05t/awesome-stars) - 
 - [U3knOwn/sdn69.streamen.der.vierte.generation](https://github.com/U3knOwn/sdn69.streamen.der.vierte.generation) - 
 - [Kometa-Team/Default-Images](https://github.com/Kometa-Team/Default-Images) - Images for Kometa default collections
 - [TheJJ/ceph-cheatsheet](https://github.com/TheJJ/ceph-cheatsheet) - All™ you ever wanted to know about operating a Ceph cluster!
@@ -84,6 +93,9 @@
 
 ## Python 
 
+- [cyb3rgh05t/telegram-bot](https://github.com/cyb3rgh05t/telegram-bot) - Telegram Bot
+- [cyb3rgh05t/discord-bot](https://github.com/cyb3rgh05t/discord-bot) - Discord Bot lite version discord py
+- [cyb3rgh05t/plexinviter-bot](https://github.com/cyb3rgh05t/plexinviter-bot) - discord bot
 - [purplescorpion1/youtube-to-m3u](https://github.com/purplescorpion1/youtube-to-m3u) - Export YouTube Live streams to m3u to stream in any player
 - [xoceunder/Xtream-UI](https://github.com/xoceunder/Xtream-UI) - 
 - [nwithan8/tauticord](https://github.com/nwithan8/tauticord) - A Discord bot that displays live data from Tautulli
@@ -99,6 +111,7 @@
 
 ## Shell 
 
+- [cyb3rgh05t/docker-uploader](https://github.com/cyb3rgh05t/docker-uploader) - 
 - [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts - Automation scripts to make life easier!
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it.
 - [dockserver/dockserver](https://github.com/dockserver/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
