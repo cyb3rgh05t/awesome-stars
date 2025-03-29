@@ -63,6 +63,7 @@
 
 ## JavaScript 
 
+- [cyb3rgh05t/rebrand-tool](https://github.com/cyb3rgh05t/rebrand-tool) - 
 - [cyb3rgh05t/plex-tautulli-dashboard](https://github.com/cyb3rgh05t/plex-tautulli-dashboard) - 
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [iam4x/pokemongo-webspoof](https://github.com/iam4x/pokemongo-webspoof) - 👾 Play Pokémon Go from your Mac
