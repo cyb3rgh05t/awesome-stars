@@ -14,6 +14,7 @@
 - [Go](#go)
 - [HTML](#html)
 - [JavaScript](#javascript)
+- [Kotlin](#kotlin)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
@@ -63,11 +64,14 @@
 
 ## JavaScript 
 
-- [cyb3rgh05t/rebrand-tool](https://github.com/cyb3rgh05t/rebrand-tool) - 
 - [cyb3rgh05t/plex-tautulli-dashboard](https://github.com/cyb3rgh05t/plex-tautulli-dashboard) - 
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [iam4x/pokemongo-webspoof](https://github.com/iam4x/pokemongo-webspoof) - 👾 Play Pokémon Go from your Mac
 - [OstlerDev/PopcornTV](https://github.com/OstlerDev/PopcornTV) - Project Discontinued.
+
+## Kotlin 
+
+- [cyb3rgh05t/M3UAndroid](https://github.com/cyb3rgh05t/M3UAndroid) - FOSS Player, which made of jetpack compose.  Android 8.0 and above supported.
 
 ## Objective-C 
 
@@ -130,6 +134,7 @@
 
 ## TypeScript 
 
+- [cyb3rgh05t/streamnetvod](https://github.com/cyb3rgh05t/streamnetvod) - Request management and media discovery tool for the Plex ecosystem
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 
 
