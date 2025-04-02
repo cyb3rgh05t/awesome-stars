@@ -73,6 +73,7 @@
 
 ## others 
 
+- [cyb3rgh05t/rebrand-tool](https://github.com/cyb3rgh05t/rebrand-tool) - An Electron-based desktop application for streamlined management of IPTV app panels, domain creation, and file deployment. This tool helps you efficiently transfer application modules and panels to yo
 - [cyb3rgh05t/M3UAndroid](https://github.com/cyb3rgh05t/M3UAndroid) - FOSS Player, which made of jetpack compose.  Android 8.0 and above supported.
 - [cyb3rgh05t/streamnetvod](https://github.com/cyb3rgh05t/streamnetvod) - Request management and media discovery tool for the Plex ecosystem
 - [cyb3rgh05t/assets](https://github.com/cyb3rgh05t/assets) - 
