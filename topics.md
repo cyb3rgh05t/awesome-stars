@@ -73,6 +73,7 @@
 
 ## others 
 
+- [cyb3rgh05t/plex-tautulli-dashboard](https://github.com/cyb3rgh05t/plex-tautulli-dashboard) - 
 - [cyb3rgh05t/rebrand-tool](https://github.com/cyb3rgh05t/rebrand-tool) - An Electron-based desktop application for streamlined management of IPTV app panels, domain creation, and file deployment. This tool helps you efficiently transfer application modules and panels to yo
 - [cyb3rgh05t/M3UAndroid](https://github.com/cyb3rgh05t/M3UAndroid) - FOSS Player, which made of jetpack compose.  Android 8.0 and above supported.
 - [cyb3rgh05t/streamnetvod](https://github.com/cyb3rgh05t/streamnetvod) - Request management and media discovery tool for the Plex ecosystem
@@ -85,7 +86,6 @@
 - [cyb3rgh05t/docker-uploader](https://github.com/cyb3rgh05t/docker-uploader) - 
 - [cyb3rgh05t/autoscan](https://github.com/cyb3rgh05t/autoscan) - Autoscan replaces the default Plex and Emby behaviour for picking up changes on the file system.
 - [cyb3rgh05t/plexinviter-bot](https://github.com/cyb3rgh05t/plexinviter-bot) - discord bot
-- [cyb3rgh05t/plex-tautulli-dashboard](https://github.com/cyb3rgh05t/plex-tautulli-dashboard) - 
 - [purplescorpion1/youtube-to-m3u](https://github.com/purplescorpion1/youtube-to-m3u) - Export YouTube Live streams to m3u to stream in any player
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [xoceunder/Xtream-UI](https://github.com/xoceunder/Xtream-UI) - 
