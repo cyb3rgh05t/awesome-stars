@@ -80,7 +80,6 @@
 
 ## Others 
 
-- [cyb3rgh05t/assets](https://github.com/cyb3rgh05t/assets) - 
 - [cyb3rgh05t/cyb3rgh05t](https://github.com/cyb3rgh05t/cyb3rgh05t) - 
 - [cyb3rgh05t/awesome-stars](https://github.com/cyb3rgh05t/awesome-stars) - 
 - [U3knOwn/sdn69.streamen.der.vierte.generation](https://github.com/U3knOwn/sdn69.streamen.der.vierte.generation) - 
