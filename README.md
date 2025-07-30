@@ -100,7 +100,6 @@
 
 - [cyb3rgh05t/telegram-bot](https://github.com/cyb3rgh05t/telegram-bot) - Telegram Bot
 - [cyb3rgh05t/discord-bot](https://github.com/cyb3rgh05t/discord-bot) - Discord Bot lite version discord py
-- [cyb3rgh05t/plexinviter-bot](https://github.com/cyb3rgh05t/plexinviter-bot) - discord bot
 - [purplescorpion1/youtube-to-m3u](https://github.com/purplescorpion1/youtube-to-m3u) - Export YouTube Live streams to m3u to stream in any player
 - [xoceunder/Xtream-UI](https://github.com/xoceunder/Xtream-UI) - 
 - [nwithan8/tauticord](https://github.com/nwithan8/tauticord) - A Discord bot that displays live data from Tautulli
