@@ -84,7 +84,6 @@
 - [cyb3rgh05t/discord-bot](https://github.com/cyb3rgh05t/discord-bot) - Discord Bot lite version discord py
 - [cyb3rgh05t/docker-uploader](https://github.com/cyb3rgh05t/docker-uploader) - 
 - [cyb3rgh05t/autoscan](https://github.com/cyb3rgh05t/autoscan) - Autoscan replaces the default Plex and Emby behaviour for picking up changes on the file system.
-- [cyb3rgh05t/plexinviter-bot](https://github.com/cyb3rgh05t/plexinviter-bot) - discord bot
 - [purplescorpion1/youtube-to-m3u](https://github.com/purplescorpion1/youtube-to-m3u) - Export YouTube Live streams to m3u to stream in any player
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [xoceunder/Xtream-UI](https://github.com/xoceunder/Xtream-UI) - 
