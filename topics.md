@@ -22,6 +22,7 @@
 - [statistics](#statistics)
 - [ubuntu](#ubuntu)
 - [xml](#xml)
+- [youtube](#youtube)
 
 ## analytics 
 
@@ -84,7 +85,6 @@
 - [cyb3rgh05t/discord-bot](https://github.com/cyb3rgh05t/discord-bot) - Discord Bot lite version discord py
 - [cyb3rgh05t/docker-uploader](https://github.com/cyb3rgh05t/docker-uploader) - 
 - [cyb3rgh05t/autoscan](https://github.com/cyb3rgh05t/autoscan) - Autoscan replaces the default Plex and Emby behaviour for picking up changes on the file system.
-- [purplescorpion1/youtube-to-m3u](https://github.com/purplescorpion1/youtube-to-m3u) - Export YouTube Live streams to m3u to stream in any player
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [xoceunder/Xtream-UI](https://github.com/xoceunder/Xtream-UI) - 
 - [U3knOwn/sdn69.streamen.der.vierte.generation](https://github.com/U3knOwn/sdn69.streamen.der.vierte.generation) - 
@@ -138,6 +138,10 @@
 ## xml 
 
 - [iptv-org/epg](https://github.com/iptv-org/epg) - Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
+
+## youtube 
+
+- [purplescorpion1/youtube-to-m3u](https://github.com/purplescorpion1/youtube-to-m3u) - Export YouTube Live streams to m3u to stream in any player
 
 
 ## License
