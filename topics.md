@@ -74,6 +74,7 @@
 
 ## others 
 
+- [cyb3rgh05t/posterizarr](https://github.com/cyb3rgh05t/posterizarr) - Automated poster maker for Plex/Jellyfin/Emby.
 - [cyb3rgh05t/rebrand-tool](https://github.com/cyb3rgh05t/rebrand-tool) - An Electron-based desktop application for streamlined management of IPTV app panels, domain creation, and file deployment. This tool helps you efficiently transfer application modules and panels to yo
 - [cyb3rgh05t/plex-tautulli-dashboard](https://github.com/cyb3rgh05t/plex-tautulli-dashboard) - A modern, elegant dashboard for monitoring your Plex Media Server and Tautulli statistics, featuring a dark-themed UI with customizable displays and real-time monitoring.
 - [cyb3rgh05t/M3UAndroid](https://github.com/cyb3rgh05t/M3UAndroid) - FOSS Player, which made of jetpack compose.  Android 8.0 and above supported.
