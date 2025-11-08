@@ -130,7 +130,6 @@
 ## TypeScript 
 
 - [cyb3rgh05t/vodwisharr](https://github.com/cyb3rgh05t/vodwisharr) - Request management and media discovery tool for the Plex ecosystem
-- [cyb3rgh05t/streamnetvod](https://github.com/cyb3rgh05t/streamnetvod) - Request management and media discovery tool for the Plex ecosystem
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 
 
