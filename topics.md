@@ -74,6 +74,7 @@
 
 ## others 
 
+- [cyb3rgh05t/komandorr](https://github.com/cyb3rgh05t/komandorr) - A modern WebUI dashboard for monitoring apps, websites, panels and projects for their online/offline/problem status.
 - [cyb3rgh05t/vodwisharr](https://github.com/cyb3rgh05t/vodwisharr) - Request management and media discovery tool for the Plex ecosystem
 - [cyb3rgh05t/posterizarr](https://github.com/cyb3rgh05t/posterizarr) - Automated poster maker for Plex/Jellyfin/Emby.
 - [cyb3rgh05t/rebrand-tool](https://github.com/cyb3rgh05t/rebrand-tool) - An Electron-based desktop application for streamlined management of IPTV app panels, domain creation, and file deployment. This tool helps you efficiently transfer application modules and panels to yo
