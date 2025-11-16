@@ -63,6 +63,7 @@
 
 ## JavaScript 
 
+- [cyb3rgh05t/komandorr](https://github.com/cyb3rgh05t/komandorr) - A modern WebUI dashboard for monitoring apps, websites, panels and projects for their online/offline/problem status.
 - [cyb3rgh05t/rebrand-tool](https://github.com/cyb3rgh05t/rebrand-tool) - An Electron-based desktop application for streamlined management of IPTV app panels, domain creation, and file deployment. This tool helps you efficiently transfer application modules and panels to yo
 - [cyb3rgh05t/plex-tautulli-dashboard](https://github.com/cyb3rgh05t/plex-tautulli-dashboard) - A modern, elegant dashboard for monitoring your Plex Media Server and Tautulli statistics, featuring a dark-themed UI with customizable displays and real-time monitoring.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
