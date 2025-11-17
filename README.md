@@ -19,6 +19,7 @@
 - [PHP](#php)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [SCSS](#scss)
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [Swift](#swift)
@@ -35,6 +36,7 @@
 
 ## C# # 
 
+- [cyb3rgh05t/requestrr](https://github.com/cyb3rgh05t/requestrr) - Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Lidarr/Ombi/Overseerr via the use of chat. Current platform is Discord only, but the bot was built around the ideology of quic
 - [PCJones/UmlautAdaptarr](https://github.com/PCJones/UmlautAdaptarr) - A tool to work around Sonarr, Radarr, Lidarr and Readarrs problems with foreign languages
 - [Ombrelin/plex-rich-presence](https://github.com/Ombrelin/plex-rich-presence) - A desktop app to enable discord rich presence for your Plex Media Server Activity
 - [hashworks/Jackett](https://github.com/hashworks/Jackett) - API Support for your favorite torrent trackers.
@@ -45,6 +47,7 @@
 
 ## CSS 
 
+- [cyb3rgh05t/streamnet.club](https://github.com/cyb3rgh05t/streamnet.club) - StreamNet ist ein täglich aktualisierter deutsch / englischer Medienserver für Ihre Plex Umgebung
 - [cyb3rgh05t/theme.park](https://github.com/cyb3rgh05t/theme.park) - A collection of themes/skins for your favorite apps.
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 
@@ -63,6 +66,8 @@
 
 ## JavaScript 
 
+- [cyb3rgh05t/github-readme-stats](https://github.com/cyb3rgh05t/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+- [cyb3rgh05t/kfzfacpro](https://github.com/cyb3rgh05t/kfzfacpro) - 
 - [cyb3rgh05t/komandorr](https://github.com/cyb3rgh05t/komandorr) - A modern WebUI dashboard for monitoring apps, websites, panels and projects for their online/offline/problem status.
 - [cyb3rgh05t/rebrand-tool](https://github.com/cyb3rgh05t/rebrand-tool) - An Electron-based desktop application for streamlined management of IPTV app panels, domain creation, and file deployment. This tool helps you efficiently transfer application modules and panels to yo
 - [cyb3rgh05t/plex-tautulli-dashboard](https://github.com/cyb3rgh05t/plex-tautulli-dashboard) - A modern, elegant dashboard for monitoring your Plex Media Server and Tautulli statistics, featuring a dark-themed UI with customizable displays and real-time monitoring.
@@ -76,6 +81,8 @@
 
 ## Others 
 
+- [cyb3rgh05t/awesome-arr](https://github.com/cyb3rgh05t/awesome-arr) - A collection of *arrs and related stuff.
+- [cyb3rgh05t/brands-logos](https://github.com/cyb3rgh05t/brands-logos) - 
 - [cyb3rgh05t/cyb3rgh05t](https://github.com/cyb3rgh05t/cyb3rgh05t) - 
 - [cyb3rgh05t/awesome-stars](https://github.com/cyb3rgh05t/awesome-stars) - 
 - [U3knOwn/sdn69.streamen.der.vierte.generation](https://github.com/U3knOwn/sdn69.streamen.der.vierte.generation) - 
@@ -84,6 +91,8 @@
 
 ## PHP 
 
+- [cyb3rgh05t/tv-logos](https://github.com/cyb3rgh05t/tv-logos) - 
+- [cyb3rgh05t/webviews](https://github.com/cyb3rgh05t/webviews) - 
 - [K-vanc/Tempest-EPG-Generator](https://github.com/K-vanc/Tempest-EPG-Generator) - The fastest XMLTV formatted EPG Generator with GUI and the lowest memory usage
 - [PGBlitz/BlitzUI](https://github.com/PGBlitz/BlitzUI) - Visit the PG Repos @ https://github.com/PGBlitz - UI (User Interface)
 
@@ -95,6 +104,10 @@
 
 ## Python 
 
+- [cyb3rgh05t/wizarr](https://github.com/cyb3rgh05t/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
+- [cyb3rgh05t/addarr](https://github.com/cyb3rgh05t/addarr) - Telegram Bot for adding series/movies to Sonarr/Radarr or for changing the download speed of Transmission/Sabnzbd
+- [cyb3rgh05t/JBOPS](https://github.com/cyb3rgh05t/JBOPS) - Just a Bunch Of Plex Scripts
+- [cyb3rgh05t/tauticord](https://github.com/cyb3rgh05t/tauticord) - A Discord bot that displays live data from Tautulli
 - [cyb3rgh05t/telegram-bot](https://github.com/cyb3rgh05t/telegram-bot) - Telegram Bot
 - [cyb3rgh05t/discord-bot](https://github.com/cyb3rgh05t/discord-bot) - Discord Bot lite version discord py
 - [purplescorpion1/youtube-to-m3u](https://github.com/purplescorpion1/youtube-to-m3u) - Export YouTube Live streams to m3u to stream in any player
@@ -110,8 +123,13 @@
 - [stoffez/PlexConnect](https://github.com/stoffez/PlexConnect) - Plex @ aTV - think different...
 - [iBaa/PlexConnect](https://github.com/iBaa/PlexConnect) - Plex @ aTV - think different...
 
+## SCSS 
+
+- [cyb3rgh05t/JellySkin](https://github.com/cyb3rgh05t/JellySkin) - Vibrante/minimal Jellyfin CSS using custom Icons and more!!, created for Jellyfin web :film_strip:, can be used by just one line.
+
 ## Shell 
 
+- [cyb3rgh05t/dockserver](https://github.com/cyb3rgh05t/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
 - [cyb3rgh05t/docker-uploader](https://github.com/cyb3rgh05t/docker-uploader) - 
 - [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts - Automation scripts to make life easier!
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.
