@@ -14,6 +14,7 @@
 - [docker](#docker)
 - [github](#github)
 - [google](#google)
+- [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
 - [monitoring](#monitoring)
 - [others](#others)
@@ -62,6 +63,10 @@
 ## google 
 
 - [dockserver/dockserver](https://github.com/dockserver/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
+
+## gui 
+
+- [K-vanc/Tempest-EPG-Generator](https://github.com/K-vanc/Tempest-EPG-Generator) - The fastest XMLTV formatted EPG Generator with GUI and the lowest memory usage
 
 ## hacktoberfest 
 
