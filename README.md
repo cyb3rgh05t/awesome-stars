@@ -104,7 +104,6 @@
 
 ## Python 
 
-- [cyb3rgh05t/wizarr](https://github.com/cyb3rgh05t/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
 - [cyb3rgh05t/addarr](https://github.com/cyb3rgh05t/addarr) - Telegram Bot for adding series/movies to Sonarr/Radarr or for changing the download speed of Transmission/Sabnzbd
 - [cyb3rgh05t/JBOPS](https://github.com/cyb3rgh05t/JBOPS) - Just a Bunch Of Plex Scripts
 - [cyb3rgh05t/tauticord](https://github.com/cyb3rgh05t/tauticord) - A Discord bot that displays live data from Tautulli
