@@ -85,7 +85,6 @@
 - [cyb3rgh05t/brands-logos](https://github.com/cyb3rgh05t/brands-logos) - 
 - [cyb3rgh05t/cyb3rgh05t](https://github.com/cyb3rgh05t/cyb3rgh05t) - 
 - [cyb3rgh05t/awesome-stars](https://github.com/cyb3rgh05t/awesome-stars) - 
-- [U3knOwn/sdn69.streamen.der.vierte.generation](https://github.com/U3knOwn/sdn69.streamen.der.vierte.generation) - 
 - [Kometa-Team/Default-Images](https://github.com/Kometa-Team/Default-Images) - Images for Kometa default collections
 - [TheJJ/ceph-cheatsheet](https://github.com/TheJJ/ceph-cheatsheet) - All™ you ever wanted to know about operating a Ceph cluster!
 
