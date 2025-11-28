@@ -106,7 +106,6 @@
 - [cyb3rgh05t/autoscan](https://github.com/cyb3rgh05t/autoscan) - Autoscan replaces the default Plex and Emby behaviour for picking up changes on the file system.
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [xoceunder/Xtream-UI](https://github.com/xoceunder/Xtream-UI) - 
-- [U3knOwn/sdn69.streamen.der.vierte.generation](https://github.com/U3knOwn/sdn69.streamen.der.vierte.generation) - 
 - [cyb3rgh05t/theme.park](https://github.com/cyb3rgh05t/theme.park) - A collection of themes/skins for your favorite apps.
 - [nwithan8/tauticord](https://github.com/nwithan8/tauticord) - A Discord bot that displays live data from Tautulli
 - [packruler/traefik-themepark](https://github.com/packruler/traefik-themepark) - Easily add theme-park.dev themes to supported applications
