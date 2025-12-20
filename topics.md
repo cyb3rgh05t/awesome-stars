@@ -79,6 +79,7 @@
 
 ## others 
 
+- [cyb3rgh05t/komandorr](https://github.com/cyb3rgh05t/komandorr) - A modern WebUI dashboard for monitoring apps, websites, panels and projects for their online/offline/problem status.
 - [cyb3rgh05t/github-readme-stats](https://github.com/cyb3rgh05t/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [cyb3rgh05t/addarr](https://github.com/cyb3rgh05t/addarr) - Telegram Bot for adding series/movies to Sonarr/Radarr or for changing the download speed of Transmission/Sabnzbd
 - [cyb3rgh05t/JellySkin](https://github.com/cyb3rgh05t/JellySkin) - Vibrante/minimal Jellyfin CSS using custom Icons and more!!, created for Jellyfin web :film_strip:, can be used by just one line.
@@ -92,7 +93,6 @@
 - [cyb3rgh05t/dockserver](https://github.com/cyb3rgh05t/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
 - [cyb3rgh05t/streamnet.club](https://github.com/cyb3rgh05t/streamnet.club) - StreamNet ist ein täglich aktualisierter deutsch / englischer Medienserver für Ihre Plex Umgebung
 - [cyb3rgh05t/requestrr](https://github.com/cyb3rgh05t/requestrr) - Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Lidarr/Ombi/Overseerr via the use of chat. Current platform is Discord only, but the bot was built around the ideology of quic
-- [cyb3rgh05t/komandorr](https://github.com/cyb3rgh05t/komandorr) - A modern WebUI dashboard for monitoring apps, websites, panels and projects for their online/offline/problem status.
 - [cyb3rgh05t/vodwisharr](https://github.com/cyb3rgh05t/vodwisharr) - Request management and media discovery tool for the Plex ecosystem
 - [cyb3rgh05t/posterizarr](https://github.com/cyb3rgh05t/posterizarr) - Automated poster maker for Plex/Jellyfin/Emby.
 - [cyb3rgh05t/rebrand-tool](https://github.com/cyb3rgh05t/rebrand-tool) - An Electron-based desktop application for streamlined management of IPTV app panels, domain creation, and file deployment. This tool helps you efficiently transfer application modules and panels to yo
