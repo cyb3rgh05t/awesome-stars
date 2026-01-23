@@ -81,13 +81,10 @@
 
 - [cyb3rgh05t/komandorr](https://github.com/cyb3rgh05t/komandorr) - A modern WebUI dashboard for monitoring apps, websites, panels and projects for their online/offline/problem status.
 - [cyb3rgh05t/github-readme-stats](https://github.com/cyb3rgh05t/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [cyb3rgh05t/addarr](https://github.com/cyb3rgh05t/addarr) - Telegram Bot for adding series/movies to Sonarr/Radarr or for changing the download speed of Transmission/Sabnzbd
-- [cyb3rgh05t/JellySkin](https://github.com/cyb3rgh05t/JellySkin) - Vibrante/minimal Jellyfin CSS using custom Icons and more!!, created for Jellyfin web :film_strip:, can be used by just one line.
 - [cyb3rgh05t/JBOPS](https://github.com/cyb3rgh05t/JBOPS) - Just a Bunch Of Plex Scripts
 - [cyb3rgh05t/tv-logos](https://github.com/cyb3rgh05t/tv-logos) - 
 - [cyb3rgh05t/awesome-arr](https://github.com/cyb3rgh05t/awesome-arr) - A collection of *arrs and related stuff.
 - [cyb3rgh05t/kfzfacpro](https://github.com/cyb3rgh05t/kfzfacpro) - 
-- [cyb3rgh05t/webviews](https://github.com/cyb3rgh05t/webviews) - 
 - [cyb3rgh05t/brands-logos](https://github.com/cyb3rgh05t/brands-logos) - 
 - [cyb3rgh05t/tauticord](https://github.com/cyb3rgh05t/tauticord) - A Discord bot that displays live data from Tautulli
 - [cyb3rgh05t/dockserver](https://github.com/cyb3rgh05t/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
