@@ -20,7 +20,6 @@
 - [PHP](#php)
 - [PowerShell](#powershell)
 - [Python](#python)
-- [SCSS](#scss)
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [Swift](#swift)
@@ -96,7 +95,6 @@
 ## PHP 
 
 - [cyb3rgh05t/tv-logos](https://github.com/cyb3rgh05t/tv-logos) - 
-- [cyb3rgh05t/webviews](https://github.com/cyb3rgh05t/webviews) - 
 - [K-vanc/Tempest-EPG-Generator](https://github.com/K-vanc/Tempest-EPG-Generator) - The fastest XMLTV formatted EPG Generator with GUI and the lowest memory usage
 - [PGBlitz/BlitzUI](https://github.com/PGBlitz/BlitzUI) - Visit the PG Repos @ https://github.com/PGBlitz - UI (User Interface)
 
@@ -108,7 +106,6 @@
 
 ## Python 
 
-- [cyb3rgh05t/addarr](https://github.com/cyb3rgh05t/addarr) - Telegram Bot for adding series/movies to Sonarr/Radarr or for changing the download speed of Transmission/Sabnzbd
 - [cyb3rgh05t/JBOPS](https://github.com/cyb3rgh05t/JBOPS) - Just a Bunch Of Plex Scripts
 - [cyb3rgh05t/tauticord](https://github.com/cyb3rgh05t/tauticord) - A Discord bot that displays live data from Tautulli
 - [cyb3rgh05t/telegram-bot](https://github.com/cyb3rgh05t/telegram-bot) - Telegram Bot
@@ -125,10 +122,6 @@
 - [falco953/PlexConnect](https://github.com/falco953/PlexConnect) - Plex @ aTV - think different...
 - [stoffez/PlexConnect](https://github.com/stoffez/PlexConnect) - Plex @ aTV - think different...
 - [iBaa/PlexConnect](https://github.com/iBaa/PlexConnect) - Plex @ aTV - think different...
-
-## SCSS 
-
-- [cyb3rgh05t/JellySkin](https://github.com/cyb3rgh05t/JellySkin) - Vibrante/minimal Jellyfin CSS using custom Icons and more!!, created for Jellyfin web :film_strip:, can be used by just one line.
 
 ## Shell 
 
