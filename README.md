@@ -119,6 +119,7 @@
 - [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
 - [nwithan8/PlexDiscordManager](https://github.com/nwithan8/PlexDiscordManager) - A Discord bot to manage your Plex users
 - [faizyy01/Invitarr](https://github.com/faizyy01/Invitarr) - Plex Discord Bot to invite a user to a plex server
+- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Trae
 - [falco953/PlexConnect](https://github.com/falco953/PlexConnect) - Plex @ aTV - think different...
 - [stoffez/PlexConnect](https://github.com/stoffez/PlexConnect) - Plex @ aTV - think different...
 - [iBaa/PlexConnect](https://github.com/iBaa/PlexConnect) - Plex @ aTV - think different...
@@ -130,7 +131,6 @@
 - [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts - Automation scripts to make life easier!
 - [dockserver/dockserver](https://github.com/dockserver/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
 - [HawksRepos/PTS-Team](https://github.com/HawksRepos/PTS-Team) - 
-- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Trae
 
 ## Smarty 
 
