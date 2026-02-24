@@ -96,7 +96,6 @@
 
 - [cyb3rgh05t/tv-logos](https://github.com/cyb3rgh05t/tv-logos) - 
 - [K-vanc/Tempest-EPG-Generator](https://github.com/K-vanc/Tempest-EPG-Generator) - The fastest XMLTV formatted EPG Generator with GUI and the lowest memory usage
-- [PGBlitz/BlitzUI](https://github.com/PGBlitz/BlitzUI) - Visit the PG Repos @ https://github.com/PGBlitz - UI (User Interface)
 
 ## PowerShell 
 
@@ -119,7 +118,6 @@
 - [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
 - [nwithan8/PlexDiscordManager](https://github.com/nwithan8/PlexDiscordManager) - A Discord bot to manage your Plex users
 - [faizyy01/Invitarr](https://github.com/faizyy01/Invitarr) - Plex Discord Bot to invite a user to a plex server
-- [plexguide/HuntarrOS.com](https://github.com/plexguide/HuntarrOS.com) - Self-hosted server management platform, originally launched in 2016 and rebuilt for 2026. One-line Docker install on Ubuntu & Debian. Built-in app store, Cloudflare Tunnel & Traefik reverse proxy supp
 - [falco953/PlexConnect](https://github.com/falco953/PlexConnect) - Plex @ aTV - think different...
 - [stoffez/PlexConnect](https://github.com/stoffez/PlexConnect) - Plex @ aTV - think different...
 - [iBaa/PlexConnect](https://github.com/iBaa/PlexConnect) - Plex @ aTV - think different...
