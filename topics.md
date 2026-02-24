@@ -21,7 +21,6 @@
 - [php](#php)
 - [python](#python)
 - [statistics](#statistics)
-- [ubuntu](#ubuntu)
 - [xml](#xml)
 - [youtube](#youtube)
 
@@ -54,7 +53,6 @@
 - [K-vanc/Tempest-EPG-Generator](https://github.com/K-vanc/Tempest-EPG-Generator) - The fastest XMLTV formatted EPG Generator with GUI and the lowest memory usage
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 - [dockserver/dockserver](https://github.com/dockserver/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
-- [plexguide/HuntarrOS.com](https://github.com/plexguide/HuntarrOS.com) - Self-hosted server management platform, originally launched in 2016 and rebuilt for 2026. One-line Docker install on Ubuntu & Debian. Built-in app store, Cloudflare Tunnel & Traefik reverse proxy supp
 
 ## github 
 
@@ -120,7 +118,6 @@
 - [nwithan8/PlexDiscordManager](https://github.com/nwithan8/PlexDiscordManager) - A Discord bot to manage your Plex users
 - [faizyy01/Invitarr](https://github.com/faizyy01/Invitarr) - Plex Discord Bot to invite a user to a plex server
 - [HawksRepos/PTS-Team](https://github.com/HawksRepos/PTS-Team) - 
-- [PGBlitz/BlitzUI](https://github.com/PGBlitz/BlitzUI) - Visit the PG Repos @ https://github.com/PGBlitz - UI (User Interface)
 - [hashworks/Jackett](https://github.com/hashworks/Jackett) - API Support for your favorite torrent trackers.
 - [kpwn/yalu102](https://github.com/kpwn/yalu102) - incomplete iOS 10.2 jailbreak for 64 bit devices by qwertyoruiopz and marcograssi
 - [tihmstar/tsschecker](https://github.com/tihmstar/tsschecker) - a powerfull tool to check tss signing status of various devices and firmwares
@@ -145,10 +142,6 @@
 ## statistics 
 
 - [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
-
-## ubuntu 
-
-- [plexguide/HuntarrOS.com](https://github.com/plexguide/HuntarrOS.com) - Self-hosted server management platform, originally launched in 2016 and rebuilt for 2026. One-line Docker install on Ubuntu & Debian. Built-in app store, Cloudflare Tunnel & Traefik reverse proxy supp
 
 ## xml 
 
