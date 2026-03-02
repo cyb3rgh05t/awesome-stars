@@ -30,11 +30,11 @@
 
 ## awesome 
 
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 
 ## awesome-list 
 
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 
 ## cli 
 
@@ -86,7 +86,6 @@
 - [cyb3rgh05t/brands-logos](https://github.com/cyb3rgh05t/brands-logos) - 
 - [cyb3rgh05t/tauticord](https://github.com/cyb3rgh05t/tauticord) - A Discord bot that displays live data from Tautulli
 - [cyb3rgh05t/dockserver](https://github.com/cyb3rgh05t/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
-- [cyb3rgh05t/streamnet.club](https://github.com/cyb3rgh05t/streamnet.club) - StreamNet ist ein täglich aktualisierter deutsch / englischer Medienserver für Ihre Plex Umgebung
 - [cyb3rgh05t/requestrr](https://github.com/cyb3rgh05t/requestrr) - Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Lidarr/Ombi/Overseerr via the use of chat. Current platform is Discord only, but the bot was built around the ideology of quic
 - [cyb3rgh05t/vodwisharr](https://github.com/cyb3rgh05t/vodwisharr) - Request management and media discovery tool for the Plex ecosystem
 - [cyb3rgh05t/posterizarr](https://github.com/cyb3rgh05t/posterizarr) - Automated poster maker for Plex/Jellyfin/Emby.
