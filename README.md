@@ -12,6 +12,7 @@
 - [CSS](#css)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
+- [Go Template](#go-template)
 - [HTML](#html)
 - [JavaScript](#javascript)
 - [Markdown](#markdown)
@@ -21,7 +22,6 @@
 - [PowerShell](#powershell)
 - [Python](#python)
 - [Shell](#shell)
-- [Smarty](#smarty)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 
@@ -58,6 +58,10 @@
 
 - [cyb3rgh05t/autoscan](https://github.com/cyb3rgh05t/autoscan) - Autoscan replaces the default Plex and Emby behaviour for picking up changes on the file system.
 - [packruler/traefik-themepark](https://github.com/packruler/traefik-themepark) - Easily add theme-park.dev themes to supported applications
+
+## Go Template 
+
+- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs.
 
 ## HTML 
 
@@ -128,10 +132,6 @@
 - [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts - Automation scripts to make life easier!
 - [dockserver/dockserver](https://github.com/dockserver/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
 - [HawksRepos/PTS-Team](https://github.com/HawksRepos/PTS-Team) - 
-
-## Smarty 
-
-- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs.
 
 ## Swift 
 
