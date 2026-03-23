@@ -56,6 +56,7 @@
 
 ## Go 
 
+- [Threadfin/Threadfin](https://github.com/Threadfin/Threadfin) - an M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe
 - [cyb3rgh05t/autoscan](https://github.com/cyb3rgh05t/autoscan) - Autoscan replaces the default Plex and Emby behaviour for picking up changes on the file system.
 - [packruler/traefik-themepark](https://github.com/packruler/traefik-themepark) - Easily add theme-park.dev themes to supported applications
 
