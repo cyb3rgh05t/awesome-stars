@@ -90,7 +90,6 @@
 ## Others 
 
 - [cyb3rgh05t/awesome-arr](https://github.com/cyb3rgh05t/awesome-arr) - A collection of *arrs and related stuff.
-- [cyb3rgh05t/brands-logos](https://github.com/cyb3rgh05t/brands-logos) - 
 - [cyb3rgh05t/cyb3rgh05t](https://github.com/cyb3rgh05t/cyb3rgh05t) - 
 - [cyb3rgh05t/awesome-stars](https://github.com/cyb3rgh05t/awesome-stars) - 
 - [Kometa-Team/Default-Images](https://github.com/Kometa-Team/Default-Images) - Images for Kometa default collections
