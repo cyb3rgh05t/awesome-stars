@@ -36,7 +36,6 @@
 
 ## C# # 
 
-- [cyb3rgh05t/requestrr](https://github.com/cyb3rgh05t/requestrr) - Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Lidarr/Ombi/Overseerr via the use of chat. Current platform is Discord only, but the bot was built around the ideology of quic
 - [PCJones/UmlautAdaptarr](https://github.com/PCJones/UmlautAdaptarr) - A tool to work around Sonarr, Radarr, Lidarr and Readarrs problems with foreign languages
 - [Ombrelin/plex-rich-presence](https://github.com/Ombrelin/plex-rich-presence) - A desktop app to enable discord rich presence for your Plex Media Server Activity
 - [hashworks/Jackett](https://github.com/hashworks/Jackett) - API Support for your favorite torrent trackers.
@@ -47,7 +46,6 @@
 
 ## CSS 
 
-- [cyb3rgh05t/theme.park](https://github.com/cyb3rgh05t/theme.park) - A collection of themes/skins for your favorite apps.
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 
 ## Dockerfile 
@@ -89,7 +87,6 @@
 
 ## Others 
 
-- [cyb3rgh05t/awesome-arr](https://github.com/cyb3rgh05t/awesome-arr) - A collection of *arrs and related stuff.
 - [cyb3rgh05t/cyb3rgh05t](https://github.com/cyb3rgh05t/cyb3rgh05t) - 
 - [cyb3rgh05t/awesome-stars](https://github.com/cyb3rgh05t/awesome-stars) - 
 - [nwithan8/tauticord](https://github.com/nwithan8/tauticord) - A Discord bot that displays live data from Tautulli
@@ -103,14 +100,11 @@
 
 ## PowerShell 
 
-- [cyb3rgh05t/posterizarr](https://github.com/cyb3rgh05t/posterizarr) - Automated poster maker for Plex/Jellyfin/Emby.
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
 
 ## Python 
 
-- [cyb3rgh05t/JBOPS](https://github.com/cyb3rgh05t/JBOPS) - Just a Bunch Of Plex Scripts
-- [cyb3rgh05t/tauticord](https://github.com/cyb3rgh05t/tauticord) - A Discord bot that displays live data from Tautulli
 - [cyb3rgh05t/telegram-bot](https://github.com/cyb3rgh05t/telegram-bot) - Telegram Bot
 - [cyb3rgh05t/discord-bot](https://github.com/cyb3rgh05t/discord-bot) - Discord Bot
 - [purplescorpion1/youtube-to-m3u](https://github.com/purplescorpion1/youtube-to-m3u) - Export YouTube Live streams to m3u to stream in any player
@@ -126,7 +120,6 @@
 
 ## Shell 
 
-- [cyb3rgh05t/dockserver](https://github.com/cyb3rgh05t/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
 - [cyb3rgh05t/docker-uploader](https://github.com/cyb3rgh05t/docker-uploader) - Automated Rclone Uploader for Google, DropBox ...
 - [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts - Automation scripts to make life easier!
 - [dockserver/dockserver](https://github.com/dockserver/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
