@@ -80,15 +80,9 @@
 
 - [cyb3rgh05t/komandorr](https://github.com/cyb3rgh05t/komandorr) - A modern WebUI dashboard for monitoring apps, websites, panels and projects for their online/offline/problem status.
 - [cyb3rgh05t/github-readme-stats](https://github.com/cyb3rgh05t/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [cyb3rgh05t/JBOPS](https://github.com/cyb3rgh05t/JBOPS) - Just a Bunch Of Plex Scripts
 - [cyb3rgh05t/tv-logos](https://github.com/cyb3rgh05t/tv-logos) - 
-- [cyb3rgh05t/awesome-arr](https://github.com/cyb3rgh05t/awesome-arr) - A collection of *arrs and related stuff.
 - [cyb3rgh05t/kfzfacpro](https://github.com/cyb3rgh05t/kfzfacpro) - 
-- [cyb3rgh05t/tauticord](https://github.com/cyb3rgh05t/tauticord) - A Discord bot that displays live data from Tautulli
-- [cyb3rgh05t/dockserver](https://github.com/cyb3rgh05t/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
-- [cyb3rgh05t/requestrr](https://github.com/cyb3rgh05t/requestrr) - Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Lidarr/Ombi/Overseerr via the use of chat. Current platform is Discord only, but the bot was built around the ideology of quic
 - [cyb3rgh05t/vodwisharr](https://github.com/cyb3rgh05t/vodwisharr) - Request management and media discovery tool for the Plex ecosystem
-- [cyb3rgh05t/posterizarr](https://github.com/cyb3rgh05t/posterizarr) - Automated poster maker for Plex/Jellyfin/Emby.
 - [cyb3rgh05t/rebrand-tool](https://github.com/cyb3rgh05t/rebrand-tool) - An Electron-based desktop application for streamlined management of IPTV app panels, domain creation, and file deployment. This tool helps you efficiently transfer application modules and panels to yo
 - [cyb3rgh05t/plex-tautulli-dashboard](https://github.com/cyb3rgh05t/plex-tautulli-dashboard) - A modern, elegant dashboard for monitoring your Plex Media Server and Tautulli statistics, featuring a dark-themed UI with customizable displays and real-time monitoring.
 - [cyb3rgh05t/cyb3rgh05t](https://github.com/cyb3rgh05t/cyb3rgh05t) - 
@@ -100,7 +94,6 @@
 - [cyb3rgh05t/autoscan](https://github.com/cyb3rgh05t/autoscan) - Autoscan replaces the default Plex and Emby behaviour for picking up changes on the file system.
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [xoceunder/Xtream-UI](https://github.com/xoceunder/Xtream-UI) - 
-- [cyb3rgh05t/theme.park](https://github.com/cyb3rgh05t/theme.park) - A collection of themes/skins for your favorite apps.
 - [nwithan8/tauticord](https://github.com/nwithan8/tauticord) - A Discord bot that displays live data from Tautulli
 - [packruler/traefik-themepark](https://github.com/packruler/traefik-themepark) - Easily add theme-park.dev themes to supported applications
 - [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts - Automation scripts to make life easier!
