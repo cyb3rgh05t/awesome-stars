@@ -73,6 +73,7 @@
 - [cyb3rgh05t/rebrand-tool](https://github.com/cyb3rgh05t/rebrand-tool) - An Electron-based desktop application for streamlined management of IPTV app panels, domain creation, and file deployment. This tool helps you efficiently transfer application modules and panels to yo
 - [cyb3rgh05t/plex-tautulli-dashboard](https://github.com/cyb3rgh05t/plex-tautulli-dashboard) - A modern, elegant dashboard for monitoring your Plex Media Server and Tautulli statistics, featuring a dark-themed UI with customizable displays and real-time monitoring.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+- [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
 - [iam4x/pokemongo-webspoof](https://github.com/iam4x/pokemongo-webspoof) - 👾 Play Pokémon Go from your Mac
 - [OstlerDev/PopcornTV](https://github.com/OstlerDev/PopcornTV) - Project Discontinued.
 
@@ -99,7 +100,6 @@
 ## PowerShell 
 
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
-- [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
 
 ## Python 
 
