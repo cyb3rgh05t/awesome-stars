@@ -78,6 +78,7 @@
 
 ## others 
 
+- [fscorrupt/dockserver](https://github.com/fscorrupt/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
 - [cyb3rgh05t/streamnet-debrid](https://github.com/cyb3rgh05t/streamnet-debrid) - A media hub application with a modern, beautiful interface.
 - [cyb3rgh05t/komandorr](https://github.com/cyb3rgh05t/komandorr) - A modern WebUI dashboard for monitoring apps, websites, panels and projects for their online/offline/problem status.
 - [cyb3rgh05t/github-readme-stats](https://github.com/cyb3rgh05t/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
