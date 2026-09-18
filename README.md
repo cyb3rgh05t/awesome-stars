@@ -123,6 +123,7 @@
 
 ## Shell 
 
+- [fscorrupt/dockserver](https://github.com/fscorrupt/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
 - [cyb3rgh05t/docker-uploader](https://github.com/cyb3rgh05t/docker-uploader) - Automated Rclone Uploader for Google, DropBox ...
 - [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts - Automation scripts to make life easier!
 - [dockserver/dockserver](https://github.com/dockserver/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
