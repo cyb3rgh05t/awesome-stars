@@ -38,7 +38,6 @@
 ## C# # 
 
 - [PCJones/UmlautAdaptarr](https://github.com/PCJones/UmlautAdaptarr) - A tool to work around Sonarr, Radarr, Lidarr and Readarrs problems with foreign languages
-- [Ombrelin/plex-rich-presence](https://github.com/Ombrelin/plex-rich-presence) - A desktop app to enable discord rich presence for your Plex Media Server Activity
 - [hashworks/Jackett](https://github.com/hashworks/Jackett) - API Support for your favorite torrent trackers.
 
 ## C++ 
