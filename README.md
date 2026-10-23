@@ -12,7 +12,6 @@
 - [CSS](#css)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
-- [Go Template](#go-template)
 - [HTML](#html)
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
@@ -56,10 +55,6 @@
 
 - [Threadfin/Threadfin](https://github.com/Threadfin/Threadfin) - an M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe
 - [packruler/traefik-themepark](https://github.com/packruler/traefik-themepark) - Easily add theme-park.dev themes to supported applications
-
-## Go Template 
-
-- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs.
 
 ## HTML 
 
@@ -125,6 +120,7 @@
 - [fscorrupt/dockserver](https://github.com/fscorrupt/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
 - [cyb3rgh05t/docker-uploader](https://github.com/cyb3rgh05t/docker-uploader) - Automated Rclone Uploader for Google, DropBox ...
 - [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts - Automation scripts to make life easier!
+- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs.
 - [dockserver/dockserver](https://github.com/dockserver/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
 - [HawksRepos/PTS-Team](https://github.com/HawksRepos/PTS-Team) - 
 
