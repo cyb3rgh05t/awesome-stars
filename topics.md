@@ -77,6 +77,7 @@
 
 ## others 
 
+- [joydeepsjce/haven-tv](https://github.com/joydeepsjce/haven-tv) - Haven is a fast, minimal home screen for Google TV and Android TV, in the spirit of Apple TV: a clean row layout, a dock of your favourite apps and full-screen nature photos that rotate in the backgro
 - [cyb3rgh05t/streamnet-debrid](https://github.com/cyb3rgh05t/streamnet-debrid) - A media hub application with a modern, beautiful interface.
 - [fscorrupt/dockserver](https://github.com/fscorrupt/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
 - [cyb3rgh05t/komandorr](https://github.com/cyb3rgh05t/komandorr) - A modern WebUI dashboard for monitoring apps, websites, panels and projects for their online/offline/problem status.
